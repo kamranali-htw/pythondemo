@@ -1,2 +1,2 @@
-number= int(input("enter a number\n"))
+number =8
 print(f'square of {number} is {number*number}')
